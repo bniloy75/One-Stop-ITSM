@@ -1,0 +1,5 @@
+{
+  "name": "One Stop ITSM",
+  "description": "A comprehensive ITSM tool modeled after ServiceNow, featuring modules for Incident, Service Level, Asset, Change, Problem, and Release Management, along with reporting, vendor management, and multi-channel integrations. It boasts a sleek red and black theme for a modern user experience.",
+  "requestFramePermissions": []
+}
